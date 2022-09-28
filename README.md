@@ -7,7 +7,7 @@
 5. Additional Documentation
 6. Versioning
 ### Project Title
-***Hello World Sample***
+*Hello World Sample*
 ### Description
 Practice using GitHub by creatinga sample repository. Make sure you add a description to help others understand your project.
 ### How to Run Program
@@ -25,6 +25,6 @@ Practice using GitHub by creatinga sample repository. Make sure you add a descri
 - URL links to files 
   - Example: [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data).
 ### Additional Documentation
-*No* additional documentation at this time
+**No** additional documentation at this time
 ### Versioning
 Discuss any versioning used especially if you are making major changes throughout the process of your code
