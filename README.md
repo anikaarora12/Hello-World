@@ -8,7 +8,7 @@
 6. Versioning
 ### Project Title
 ***Hello World Sample***
-## Description
+### Description
 Practice using GitHub by creatinga sample repository. Make sure you add a description to help others understand your project.
 ### How to Run Program
 - [ ] Hello_World/
